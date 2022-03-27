@@ -111,7 +111,7 @@
 
 ## Deploy on Heroku :-
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/GopalSaraf/TorrentLeechBot/tree/master)"> <img src="https://www.herokucdn.com/deploy/button.svg" width="150"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/johnkhan007123/TorrentLeechBot/tree/master)"> <img src="https://www.herokucdn.com/deploy/button.svg" width="150"/></a></p>
 <br>
 
 ## "Item could not be created" error on Heroku and how to overcome it
@@ -124,5 +124,3 @@
     Replace GopalSaraf with your github username in link
     Commit the changes
     Deploy the bot
-
-
